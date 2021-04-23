@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+2cb94306cb680559fa5e67b209cc30d7fd094165 refs/remotes/origin/dev
+772e6c4b16acc564fcbb559111160fe035c31efa refs/remotes/origin/lotteryreward
+a61313bf107c7f82e1a0f5736d815041fbf8cdff refs/remotes/origin/master
+3a7824d86b0a87416e7c9f0c33d57f78fcc9f8bf refs/remotes/origin/pancake-swap-patch-1
+471f7cc03cce607219a87a7818d1bc56a9301756 refs/remotes/origin/pancake-swap-patch-2
+987e8f9308c794563698c066b321a47787c765b7 refs/remotes/origin/pancake-swap-patch-3
+955231ed12431b0fddf84642ef777fd01724ff86 refs/remotes/origin/pancake-swap-patch-4
+b48e964c487c68456818b59cd243f250f5a17593 refs/remotes/origin/pancake-swap-patch-5
+043ac6a2d1c98ca65810571af7810b9aa1b1bc37 refs/remotes/origin/testcase
